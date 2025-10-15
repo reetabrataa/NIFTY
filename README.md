@@ -1,1 +1,1 @@
-# NIFTY
+# NIFTY50
